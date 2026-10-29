@@ -11,8 +11,9 @@ Day job: WordPress — Elementor, Bricks, JetEngine, ACF/SCF, WooCommerce. Five
 years of production sites: stores, publishing platforms, and directory portals
 that had to survive real traffic and real editors.
 
-Before that I ran my own small studio, Digizein (2017–2021): 52 client reviews,
-five stars, no ad budget, every customer from word of mouth.
+Before that I ran a one-person web studio in East Java (2017–2021), building
+sites for local schools, shops, and small businesses. Six years on, several of
+them are still live and still being used — which is the only review I trust.
 
 ---
 
